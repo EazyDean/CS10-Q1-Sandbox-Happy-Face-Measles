@@ -20,4 +20,7 @@ void population() {
   mouthY2 = mouthY1;
   mouthThick = 15;
   reset = 1;
+  measlesX = ;
+  measlesY = ;
+  measlesDiameter = ;
 }//End population
